@@ -7,4 +7,4 @@ Um recurso de serviços de IA do Azure , que fornece serviços de IA para habili
 
 - Um recurso de serviços de IA do Azure , que fornece serviços de IA para habilidades que sua solução de pesquisa pode usar para enriquecer os dados na fonte de dados com insights gerados por IA.
 
-- 
+> OBS: Esse tipo de ferramenta, não tenho acesso na versão paga de uso.
